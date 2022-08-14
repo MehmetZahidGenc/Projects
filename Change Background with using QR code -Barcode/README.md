@@ -1,1 +1,1 @@
- 
+This is a basic project which is used to remove background. For now, you need our app to change background with using qr code or barcode. Or you can create qr code or barcode with using online barcode creator.
